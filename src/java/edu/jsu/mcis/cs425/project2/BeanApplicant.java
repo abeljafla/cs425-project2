@@ -57,11 +57,11 @@ public class BeanApplicant {
     
     public void setSkillsList(){
         Database db = new Database();
-        //db.setSkillsList(userid, skills);
+      
      }
     
     public void setJobsList() {
         Database db = new Database();
-        //db.setJobsList(userid, jobs);
+        
      }
 }
